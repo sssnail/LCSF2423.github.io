@@ -1,4 +1,5 @@
 echo "# LCSF2423.github.io" >> README.md
+Lianlian
 git init
 git add README.md
 git commit -m "first commit"
